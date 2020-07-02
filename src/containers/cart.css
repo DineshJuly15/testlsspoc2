@@ -1,0 +1,26 @@
+.galleryBox{
+    border:1px solid black;
+    width:150px;
+    border-radius:3px;
+}
+
+.carouselImg {
+    height: 40%;
+    width: 40%;
+    overflow: hidden;
+    position: relative;
+    cursor: pointer;
+  }
+  
+  .cartMain {
+      float: left;
+      clear: both;
+  }
+
+  .cartTotal {
+      float: right;
+  }
+
+  .qtyBox {
+      width: 1em;
+  }

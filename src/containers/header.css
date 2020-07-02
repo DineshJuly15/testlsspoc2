@@ -1,0 +1,41 @@
+.header {
+    background-color: #282c34;
+    min-height: 3em;
+    color: white;
+  }
+
+  .header-popup {
+    background-color: #282c34;
+    min-height: 2.2em;
+    color: white;    
+  }
+  
+  .header-logo {
+    float: left;
+    margin-top: 0.6em;
+  }
+
+  .header-logo-popup {
+    float: left;
+    clear: both;
+    margin-top: 0.35em;
+  }
+  
+  .header-content {
+    float: right;
+    margin-top: 0.6em;
+  }
+
+  .header-content-popup {
+    float: right;
+    margin-top: 0.35em;
+  }
+
+  .signIn {
+      padding: 1em;
+  }
+
+  .cart {
+      cursor: pointer;
+    padding: 2em;
+  }
